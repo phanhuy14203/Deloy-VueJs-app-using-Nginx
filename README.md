@@ -71,4 +71,3 @@ server {
 sudo systemctl restart nginx
 ```
 Open your browser and check your awesome Vue.js app.
-![image](https://github.com/user-attachments/assets/6641c3be-ca67-4bc8-9be4-928e17bf8799)
