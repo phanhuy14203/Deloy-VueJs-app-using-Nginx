@@ -1,5 +1,5 @@
 ﻿# Deloy-VueJs-app-using-Nginx
-## Install Node.js version 18.3 or higher
+## 📌Install Node.js version 18.3 or higher
 ### Step 1 - Add NodeSource PPA
 ```
 curl -s https://deb.nodesource.com/setup_18.x | sudo bash
@@ -12,7 +12,7 @@ sudo apt install nodejs -y
 ```
 node -v
 ```
-## VueJS project setup
+## 📌VueJS project setup
 ```
 npm install
 ```
@@ -24,7 +24,7 @@ npm run build
 ```
 npm run serve
 ```
-## Run VueJS project with Nginx
+## 📌Run VueJS project with Nginx
 ### Step 0 - Move the todolist project to the /var/www directory
 ```
 mv todolist /var/www
