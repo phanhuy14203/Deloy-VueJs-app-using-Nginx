@@ -1,9 +1,4 @@
 ﻿# Deloy-VueJs-app-using-Nginx
-# Vue ToDo List
-
-## About
-Project of a CRUD ToDo list made in vue.js
-
 ## Project setup
 ```
 npm install
