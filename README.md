@@ -45,6 +45,10 @@ systemctl status nginx
 ```
 sudo systemctl start nginx
 ```
+Or
+```
+nginx -s reload
+```
 ### Step 4: NGINX Configuration
 ```
 touch /etc/nginx/conf.d/todolist.conf
