@@ -74,4 +74,4 @@ server {
 ```
 sudo systemctl restart nginx
 ```
-Open your browser and check your awesome Vue.js app.
+Open browser and check awesome Vue.js app.
