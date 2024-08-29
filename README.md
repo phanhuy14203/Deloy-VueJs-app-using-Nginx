@@ -57,7 +57,7 @@ touch /etc/nginx/conf.d/todolist.conf
 ```
 server {
     listen      80;
-    server_name your_domain_or_ip;
+    server_name domain_or_ip;
     charset utf-8;
     root    /var/www/todolist/dist;
     index   index.html;
